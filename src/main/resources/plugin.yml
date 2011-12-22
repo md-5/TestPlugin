@@ -1,0 +1,7 @@
+name: TestPlugin
+version: 1.0.0
+description: Assorted tests for new Bukkit and CraftBukkit api additions
+author: md_5
+website: https://github.com/md-5/TestPlugin
+
+main: com.md_5.testplugin.TestPlugin
